@@ -1,0 +1,330 @@
+
+.topnav {
+  margin-top: 20px;
+  margin-left: 50px;
+    
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 20px 35px;
+    text-decoration: none;
+    font-size: 35px;
+    font-family: 'Montserrat', sans-serif;
+    font-stretch: wider;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    transition: 850ms;
+    color: #AE3000;
+  }
+  
+  
+
+  .body {
+    background-color: #050024;
+  }
+
+  .naam {
+    margin-left: 10%;
+    margin-top: -20px;
+  }
+
+  .naam a {
+    font-size: 130px;
+    color: #AE3000;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration-line: underline;
+    text-decoration-thickness: 7px;
+    text-decoration-color: white;
+  }
+
+  .portvan {
+    margin-top: 260px;
+    margin-left: 10%;
+  }
+
+  .portvan a {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+  }
+
+ .iconvan {
+   text-align: right;
+   margin-top: -230px;
+   margin-right: 10%;
+ }
+
+ .iconvan ion-icon {
+   font-size: 290px;
+   color: #AE3000;
+ }
+
+  .uitkomstnav ul{
+    display: flex;
+    list-style: none;
+    margin-top: 170px; 
+    text-align: center;
+}
+
+.uitkomstnav a {
+  color: #AE3000;
+  text-decoration: none;
+  padding: 10px 120px;
+  font-size: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.uitkomstnav a:hover {
+    color:  white;
+    transition: all 850ms;
+}
+
+.leer ul{
+  display: flex;
+  list-style: none;
+  margin-top: 250px; 
+  text-align: center;
+}
+
+.leer a {
+  color: #AE3000;
+  text-decoration: none;
+  padding: 1px 100px;
+  font-size: 50px;
+  font-family: 'Montserrat', sans-serif;
+    
+}
+
+.leer a:hover {
+    color:  white;
+    transition: all 850ms;
+}
+
+.iconleer {
+  margin-top: 285px;
+  margin-left: 120px;
+
+}
+
+.iconleer ion-icon {
+  font-size: 200px;
+  color: #AE3000;
+}
+
+ul.breadcrumb {
+  padding: 10px 16px;
+  list-style: none;
+  margin-left: 70px;
+}
+ul.breadcrumb li {
+  display: inline;
+  font-size: 18px;
+  color: #AE3000;
+  font-family: 'Andada Pro', serif;
+}
+ul.breadcrumb li+li:before {
+  padding: 8px;
+  color: #AE3000;
+  content: "/\00a0";
+}
+ul.breadcrumb li a {
+  color: white;
+  text-decoration: none;
+  font-family: 'Andada Pro', serif;
+}
+ul.breadcrumb li a:hover {
+  color: #AE3000;
+  text-decoration: underline;
+}
+
+.project1 {
+  margin-top: -328px;
+  text-align: center;
+}
+
+.project1 a {
+  color: white;
+  font-size: 90px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+.project1 a:hover {
+  color: #AE3000;
+  transition: 850ms;
+}
+
+.project2 {
+  margin: auto;
+  text-align: center;
+}
+
+.project2 a {
+  color: white;
+  font-size: 90px;
+  font-family: 'Montserrat', sans-serif;  
+  text-decoration: none;
+}
+
+.project2 a:hover {
+  color: #AE3000;
+  transition: 850ms;
+}
+
+.project3 {
+  margin: auto;
+  text-align: center;
+}
+
+.project3 a {
+  color: white;
+  font-size: 90px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+.project3 a:hover {
+  color: #AE3000;
+  transition: 850ms;
+}
+
+.project4 {
+  margin: auto;
+  text-align: center;
+}
+
+.project4 a {
+  color: white;
+  font-size: 90px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+.project4 a:hover {
+  color: #AE3000;
+  transition: 850ms;
+}
+
+.foto {
+  margin-left: 1250px;
+  margin-top: 100px;
+}
+
+.foto1 {
+  margin-left: 1250px;
+  margin-top: 0px;
+}
+
+
+.ik {
+  margin-left: 1300px;
+  margin-top: 250px;
+}
+
+.ik ion-icon {
+  font-size: 200px;
+  color: #AE3000;
+}
+
+.overmijtekst {
+  margin-top: -300px;
+  margin-left: 200px;
+}
+
+.overmijtekst h1 {
+  color: #AE3000;
+  font-size: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.overmijtekst p {
+  color: white;
+  font-size: 20px;
+  font-family: 'Andada Pro', serif;
+  margin: 1px;
+}
+
+.inhoud {
+  margin-left: 90px;
+  margin-top: -570px;
+}
+
+.inhoud h1 {
+  color: #AE3000;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+}
+
+.inhoud p {
+  color: white;
+  font-size: 18px;
+  margin: 1px;
+  font-family: 'Andada Pro', serif;
+}
+
+.inhoud1 {
+  margin-left: 90px;
+  margin-top: -520px;
+}
+
+.inhoud1 h1 {
+  color: #AE3000;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+}
+
+.inhoud1 p {
+  color: white;
+  font-size: 18px;
+  margin: 1px;
+  font-family: 'Andada Pro', serif;
+}
+
+
+
+.iteraties {
+  margin-left: 90px;
+  margin-top: 30px;
+}
+
+.iteraties h1{
+  color: #AE3000;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+}
+
+.iteraties p {
+  color: white;
+  font-size: 18px;
+  margin: 1px;
+  font-family: 'Andada Pro', serif;
+}
+
+.feedback {
+  margin-left: 90px;
+  margin-top: 30px;
+}
+
+.feedback h1 {
+  color: #AE3000;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+}
+
+.feedback p {
+  color: white;
+  font-size: 20px;
+  margin: 1px;
+  font-family: 'Andada Pro', serif;
+}
+
+#canvas {
+  margin-top: 100px;
+}
