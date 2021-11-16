@@ -6,7 +6,7 @@
     overflow: hidden;
   }
   
-  /* Style the links inside the navigation bar */
+  
   .topnav a {
     float: left;
     color: white;
@@ -18,7 +18,7 @@
     font-stretch: wider;
   }
   
-  /* Change the color of links on hover */
+  
   .topnav a:hover {
     transition: 850ms;
     color: #AE3000;
@@ -217,6 +217,11 @@ ul.breadcrumb li a:hover {
   margin-top: 100px;
 }
 
+.klokplek {
+  margin-left: 65%;
+  height: 50%;
+}
+
 .foto1 {
   margin-left: 1250px;
   margin-top: 0px;
@@ -254,6 +259,24 @@ ul.breadcrumb li a:hover {
 .inhoud {
   margin-left: 90px;
   margin-top: -570px;
+}
+
+.inhoudklok {
+  margin-left: 90px;
+  margin-top: -25%;
+}
+
+.inhoudklok h1 {
+  color: #AE3000;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+}
+
+.inhoudklok p {
+  color: white;
+  font-size: 18px;
+  margin: 1px;
+  font-family: 'Andada Pro', serif;
 }
 
 .inhoud h1 {
@@ -327,4 +350,19 @@ ul.breadcrumb li a:hover {
 
 #canvas {
   margin-top: 100px;
+}
+
+.button {
+  background-color: #AE3000;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Andada Pro', serif;
+  font-size: 18px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
