@@ -355,6 +355,58 @@ ul.breadcrumb li a:hover {
   transition: 850ms;
 }
 
+.projectv1 {
+  margin-top: -268px;
+  text-align: center;
+}
+
+.projectv1 a {
+  color: white;
+  font-size: 90px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+.projectv1 a:hover {
+  color: #AE3000;
+  transition: 850ms;
+}
+
+.projectv2 {
+  margin: auto;
+  text-align: center;
+}
+
+.projectv2 a {
+  color: white;
+  font-size: 90px;
+  font-family: 'Montserrat', sans-serif;  
+  text-decoration: none;
+}
+
+.projectv2 a:hover {
+  color: #AE3000;
+  transition: 850ms;
+}
+
+.projectv3 {
+  margin: auto;
+  text-align: center;
+}
+
+.projectv3 a {
+  color: white;
+  font-size: 90px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+.projectv3 a:hover {
+  color: #AE3000;
+  transition: 850ms;
+}
+
+
 .foto {
   margin-left: 1250px;
   margin-top: 100px;
@@ -376,6 +428,11 @@ ul.breadcrumb li a:hover {
 .foto1 {
   margin-left: 1250px;
   margin-top: 0px;
+}
+
+.fotov1 {
+  margin-left: 1350px;
+  margin-top: 100px;
 }
 
 
@@ -467,6 +524,11 @@ ul.breadcrumb li a:hover {
   margin-top: -520px;
 }
 
+.inhoudv1 {
+  margin-left: 90px;
+  margin-top: -580px;
+}
+
 .inhoud1 h1 {
   color: #AE3000;
   font-family: 'Montserrat', sans-serif;
@@ -480,7 +542,36 @@ ul.breadcrumb li a:hover {
   font-family: 'Andada Pro', serif;
 }
 
+.inhoudv1 h1 {
+  color: #AE3000;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+}
 
+.inhoudv1 p {
+  color: white;
+  font-size: 18px;
+  margin: 1px;
+  font-family: 'Andada Pro', serif;
+}
+
+.reflectie {
+  margin-left: 90px;
+  margin-top: 10px;
+}
+
+.reflectie h1 {
+  color: #AE3000;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+}
+
+.reflectie p {
+  color: white;
+  font-size: 20px;
+  margin: 1px;
+  font-family: 'Andada Pro', serif;
+}
 
 .iteraties {
   margin-left: 90px;
